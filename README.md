@@ -65,6 +65,11 @@
 <img src='algorithm compare/5442/IMG_5442 03_key_brisk.jpg' width = "500" height="400">
 <img src='algorithm compare/5455/IMG_5455 03_key_brisk.jpg' width = "500" height="400">
 
+### BRISK與SIFT Match比較結果
+SIFT Match
+<img src='algorithm compare/5437/IMG_5437 03_key_sift.jpg'>
+BRISK Match
+<img src='algorithm compare/5437/IMG_5437 03_matches_brisk.jpg'>
 
 ## 5.Enhance effect by using photoshop. 
 
