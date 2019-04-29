@@ -23,13 +23,11 @@
 
 <img src='SIFT Match/IMG_5435 04_matches_sift.jpg'>
 
+<img src='SIFT Match/IMG_5437 04_matches_sift.jpg'>
 
-![](SIFT Match/IMG_5437 04_matches_sift.jpg)
+<img src='SIFT Match/IMG_5442 03_matches_sift.jpg'>
 
-![](SIFT Match/IMG_5442 03_matches_sift.jpg)
-
-![](SIFT Match/IMG_5455 03_matches_sift.jpg)
-
+<img src='SIFT Match/IMG_5455 03_matches_sift.jpg'>
 
 ## 3.Perform image alignment and generate infinite zooming effect
 
