@@ -12,8 +12,7 @@
 
 **欣賞竹湖**
 
-
-<img src='(moving forward GIF/5442.gif'>
+<img src='moving forward GIF/5442.gif'>
 
 **清大花園**
 
