@@ -2,10 +2,22 @@
 
 ## Take a sequence of moving-forward images in NTHU campus
 
+
+
 ## Show feature extraction and matching results between two images
+
+
 
 ## Perform image alignment and generate infinite zooming effect
 
+
+
 ## implement different feature extrators, e.g. SIFT, SURF, and compare the results
 
+
+
 ## Enhance effect by using photoshop. 
+
+
+
+## 比較所有演算法
