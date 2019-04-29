@@ -21,7 +21,8 @@
 
 如下圖，首先我們使用SIFT來找出feature sift
 
-![](SIFT Match/IMG_5435 04_matches_sift.jpg)
+<img src='SIFT Match/IMG_5435 04_matches_sift.jpg'>
+
 
 ![](SIFT Match/IMG_5437 04_matches_sift.jpg)
 
