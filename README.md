@@ -49,11 +49,15 @@
 ## 4.Implement different feature extrators, e.g. SIFT, SURF, and compare the results
 ### 原圖
 
-<img src='algorithm compare/5437/IMG_5437 03.jpg' width = "640" height="480"><img src='algorithm compare/5442/IMG_5442 03.jpg' width = "640" height="480"><img src='algorithm compare/5455/IMG_5455 03.jpg' width = "640" height="480">
+<img src='algorithm compare/5437/IMG_5437 03.jpg' width = "640" height="480">
+<img src='algorithm compare/5442/IMG_5442 03.jpg' width = "640" height="480">
+<img src='algorithm compare/5455/IMG_5455 03.jpg' width = "640" height="480">
 
 ### SIFT演算法
 
-
+<img src='algorithm compare/5437/IMG_5437 03_key_sift' width = "640" height="480">
+<img src='algorithm compare/5442/IMG_5442 03_key_sift' width = "640" height="480">
+<img src='algorithm compare/5455/IMG_5455 03_key_sift' width = "640" height="480">
 
 ### BRISK演算法
 
