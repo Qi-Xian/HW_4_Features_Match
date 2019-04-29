@@ -115,3 +115,7 @@ BRISK Match
 |ORB  |None. | Moments. | Learned pairs.
 |BRISK  |	Concentric circles with more points on outer rings. | Comparing gradients of long pairs. |  Using only short pairs.
 
+## 7. References
+1. [A tutorial on binary descriptors – part 4 – The BRISK descriptor](https://gilscvblog.com/2013/11/08/a-tutorial-on-binary-descriptors-part-4-the-brisk-descriptor/?fbclid=IwAR1lFCLMVlV0_TDza5L6Gi6jvcvkRmYxZ8-9rBCFkpn_bnqvkrHVaTwZ4Cw)
+2. [SIFT - A Short introduction to descriptors](https://gilscvblog.com/2013/08/18/a-short-introduction-to-descriptors/?fbclid=IwAR1kNmaZUe0V8GaFnBtBqGUNX-169ZLBWkHz_n4xCniBfDMBIFX10I8XQ70)
+3. [Performance Evaluation of Binary Descriptors – Introducing the LATCH descriptor](https://gilscvblog.com/2015/11/07/performance-evaluation-of-binary-descriptor-introducing-the-latch-descriptor/?fbclid=IwAR2aceDNJg2DMZoW66pZ21FUZQCs_CYNO2R1oYoHn_Zj0buQThbwhO6eAHk)
