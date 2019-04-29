@@ -28,15 +28,15 @@
 
 **a.走去吃胖老爹**
 
-<img src='moving forward GIF/5437.gif'>
+<img src='allign_zooming/5437.gif'>
 
 **b.欣賞竹湖**
 
-<img src='moving forward GIF/5442.gif'>
+<img src='allign_zooming/5442.gif'>
 
 **c.清大花園**
 
-<img src='moving forward GIF/5455.gif'>
+<img src='allign_zooming/5455.gif'>
 
 
 ## 4.implement different feature extrators, e.g. SIFT, SURF, and compare the results
