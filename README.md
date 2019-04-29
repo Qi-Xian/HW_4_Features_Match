@@ -68,8 +68,12 @@
 ### BRISK與SIFT Match比較結果
 SIFT Match
 <img src='algorithm compare/5437/IMG_5437 03_matches_sift.jpg'>
+<img src='algorithm compare/5442/IMG_5442 03_matches_sift.jpg'>
+<img src='algorithm compare/5455/IMG_5455 03_matches_sift.jpg'>
 BRISK Match
 <img src='algorithm compare/5437/IMG_5437 03_matches_brisk.jpg'>
+<img src='algorithm compare/5442/IMG_5442 03_matches_sift.jpg'>
+<img src='algorithm compare/5455/IMG_5455 03_matches_sift.jpg'>
 
 ## 5.Enhance effect by using photoshop. 
 
