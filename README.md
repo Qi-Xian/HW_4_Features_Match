@@ -108,3 +108,10 @@ BRISK Match
 
 
 ## 6.比較所有演算法
+
+|     |  Sample Pattern   | 	Orientation calculation | Sampling pairs 
+| ---   |--- | --- | --- 
+|SIFT   |	None.| 	None. | Random.  
+|ORB  |None. | Moments. | Learned pairs.
+|BRISK  |	Concentric circles with more points on outer rings. | Comparing gradients of long pairs. |  Using only short pairs.
+
