@@ -25,7 +25,7 @@
 
 <img src='SIFT Match/IMG_5437 04_matches_sift.jpg'>
 
-<img src='SIFT Match/IMG_5442 03_matches_sift.jpg'>
+<img src='SIFT Match/IMG_5442 03_matches_brisk.jpg'>
 
 <img src='SIFT Match/IMG_5455 03_matches_sift.jpg'>
 
