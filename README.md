@@ -2,19 +2,19 @@
 
 ## 1.Take a sequence of moving-forward images in NTHU campus
 
-**腳踏車廢器區**
+**a.腳踏車廢器區**
 
 <img src='moving forward GIF/5435.gif'>
 
-**走去吃胖老爹**
+**b.走去吃胖老爹**
 
 <img src='moving forward GIF/5437.gif'>
 
-**欣賞竹湖**
+**c.欣賞竹湖**
 
 <img src='moving forward GIF/5442.gif'>
 
-**清大花園**
+**d.清大花園**
 
 <img src='moving forward GIF/5455.gif'>
 
