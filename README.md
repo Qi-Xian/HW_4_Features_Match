@@ -46,7 +46,16 @@
 <img src='allign_zooming/5455.gif'>
 
 
-## 4.implement different feature extrators, e.g. SIFT, SURF, and compare the results
+## 4.Implement different feature extrators, e.g. SIFT, SURF, and compare the results
+### 原圖
+
+
+
+### SIFT演算法
+
+
+
+### BRISK演算法
 
 
 
