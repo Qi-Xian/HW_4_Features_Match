@@ -77,6 +77,34 @@ BRISK Match
 
 ## 5.Enhance effect by using photoshop. 
 
+### 原圖
+
+<img src='algorithm compare - enhanced/5437/IMG_5437_enhanced 03.jpg' width = "640" height="480">
+<img src='algorithm compare - enhanced/5442/IMG_5442_enhanced 03.jpg' width = "640" height="480">
+<img src='algorithm compare - enhanced/5455/IMG_5455_enhanced 03.jpg' width = "640" height="480">
+
+### SIFT演算法
+
+<img src='algorithm compare - enhanced/5437/IMG_5437 03_enhanced_key_sift.jpg' width = "500" height="400">
+<img src='algorithm compare - enhanced/5442/IMG_5442 03_enhanced_key_sift.jpg' width = "500" height="400">
+<img src='algorithm compare - enhanced/5455/IMG_5455 03_enhanced_key_sift.jpg' width = "500" height="400">
+
+### BRISK演算法
+
+<img src='algorithm compare - enhanced/5437/IMG_5437 03_enhanced_key_brisk.jpg' width = "500" height="400">
+<img src='algorithm compare - enhanced/5442/IMG_5442 03_enhanced_key_brisk.jpg' width = "500" height="400">
+<img src='algorithm compare - enhanced/5455/IMG_5455 03_enhanced_key_brisk.jpg' width = "500" height="400">
+
+
+### BRISK與SIFT Match比較結果
+SIFT Match
+<img src='algorithm compare - enhanced/5437/IMG_5437 03_enhanced_matches_sift.jpg' >
+<img src='algorithm compare - enhanced/5442/IMG_5442 03_enhanced_matches_sift.jpg' >
+<img src='algorithm compare - enhanced/5455/IMG_5455 03_enhanced_matches_sift.jpg' >
+BRISK Match
+<img src='algorithm compare - enhanced/5437/IMG_5437 03_enhanced_matches_brisk.jpg' >
+<img src='algorithm compare - enhanced/5442/IMG_5442 03_enhanced_matches_brisk.jpg' >
+<img src='algorithm compare - enhanced/5455/IMG_5455 03_enhanced_matches_brisk.jpg' >
 
 
 ## 6.比較所有演算法
