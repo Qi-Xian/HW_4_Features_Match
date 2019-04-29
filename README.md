@@ -21,13 +21,13 @@
 
 如下圖，首先我們使用SIFT來找出feature sift
 
-![](SIFT Match/IMG_5435 04_matches_sift)
+![](SIFT Match/IMG_5435 04_matches_sift.jpg)
 
-![](SIFT Match/IMG_5437 04_matches_sift)
+![](SIFT Match/IMG_5437 04_matches_sift.jpg)
 
-![](SIFT Match/IMG_5442 03_matches_sift)
+![](SIFT Match/IMG_5442 03_matches_sift.jpg)
 
-![](SIFT Match/IMG_5455 03_matches_sift)
+![](SIFT Match/IMG_5455 03_matches_sift.jpg)
 
 
 ## 3.Perform image alignment and generate infinite zooming effect
