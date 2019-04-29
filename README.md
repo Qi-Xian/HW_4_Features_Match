@@ -49,7 +49,7 @@
 ## 4.Implement different feature extrators, e.g. SIFT, SURF, and compare the results
 ### 原圖
 
-<img src='algorithm compare/5437/IMG_5437 03.jpg' width = '500' height='400'>
+<img src='algorithm compare/5437/IMG_5437 03.jpg' width = "500" height="400">
 
 ### SIFT演算法
 
