@@ -1,23 +1,33 @@
 [實作過程請參閱此link ](https://colab.research.google.com/drive/1sn6nira08AclU3xzaY3CkKlx9yZMHLAt#scrollTo=R8teSbWVkDZ5)
 
-## Take a sequence of moving-forward images in NTHU campus
+## 1.Take a sequence of moving-forward images in NTHU campus
+
+**腳踏車廢器區**
+![](moveing forward GIF/5435.gif)
+
+**走去吃胖老爹**
+![](moveing forward GIF/5435.gif)
+
+**欣賞竹湖**
+![](moveing forward GIF/5442.gif)
+
+**清大花園**
+![](moveing forward GIF/5455.gif)
+
+## 2.Show feature extraction and matching results between two images
 
 
 
-## Show feature extraction and matching results between two images
+## 3.Perform image alignment and generate infinite zooming effect
 
 
 
-## Perform image alignment and generate infinite zooming effect
+## 4.implement different feature extrators, e.g. SIFT, SURF, and compare the results
 
 
 
-## implement different feature extrators, e.g. SIFT, SURF, and compare the results
+## 5.Enhance effect by using photoshop. 
 
 
 
-## Enhance effect by using photoshop. 
-
-
-
-## 比較所有演算法
+## 6.比較所有演算法
