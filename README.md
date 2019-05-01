@@ -59,7 +59,7 @@
 <img src='algorithm compare/5442/IMG_5442 03_key_sift.jpg' width = "500" height="400">
 <img src='algorithm compare/5455/IMG_5455 03_key_sift.jpg' width = "500" height="400">
 
-### BRISK演算法
+### BRISK演算法（找到的特徵點比較多，因為使用鄰近演算法）
 
 <img src='algorithm compare/5437/IMG_5437 03_key_brisk.jpg' width = "500" height="400">
 <img src='algorithm compare/5442/IMG_5442 03_key_brisk.jpg' width = "500" height="400">
