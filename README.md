@@ -106,6 +106,7 @@ BRISK Match
 <img src='algorithm compare - enhanced/5442/IMG_5442 03_enhanced_matches_brisk.jpg' >
 <img src='algorithm compare - enhanced/5455/IMG_5455 03_enhanced_matches_brisk.jpg' >
 
+**綜合說明：我們的實驗結果BRISK找到的Feature Match比較多，原因是BRISK演算法是用鄰近擴散的演算法找的特徵比較多，相反SIFT特徵比較少，所以BRISK的效果來得比SIFT好。**
 
 ## 6.比較所有演算法
 
