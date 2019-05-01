@@ -65,7 +65,7 @@
 <img src='algorithm compare/5442/IMG_5442 03_key_brisk.jpg' width = "500" height="400">
 <img src='algorithm compare/5455/IMG_5455 03_key_brisk.jpg' width = "500" height="400">
 
-### BRISK與SIFT Match比較結果
+### BRISK與SIFT Match比較結果（BRISK找到特徵比較多 → 最後結果找到的feature match比 sift好）
 SIFT Match
 <img src='algorithm compare/5437/IMG_5437 03_matches_sift.jpg'>
 <img src='algorithm compare/5442/IMG_5442 03_matches_sift.jpg'>
